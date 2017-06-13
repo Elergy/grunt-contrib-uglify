@@ -34,9 +34,5 @@
   },
   "keywords": [
     "gruntplugin"
-  ],
-  "files": [
-    "tasks"
-  ],
-  "appveyor_id": "ybtf5vbvtenii561"
+  ]
 }
